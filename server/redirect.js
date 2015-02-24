@@ -1,4 +1,4 @@
-REDIRECT_URL = 'http://xn--h1aairaz.xn--80adbby7aedl.xn--p1ai';
+REDIRECT_URL = 'http://phil.rigovanov.ru';
 
 WebApp.connectHandlers
   .use(function(req, res, next) {
